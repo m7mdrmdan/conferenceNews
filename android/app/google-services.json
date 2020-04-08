@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51564025122",
+    "firebase_url": "https://sportsapp-75415.firebaseio.com",
+    "project_id": "sportsapp-75415",
+    "storage_bucket": "sportsapp-75415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51564025122:android:19cd219585a9abb470417b",
+        "android_client_info": {
+          "package_name": "com.example.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51564025122-oee48icieh5qiiv5k1espe3v09hushlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIYMER2YylyjQGkGCJLG3DExQcjcfac0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51564025122-oee48icieh5qiiv5k1espe3v09hushlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
